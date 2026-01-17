@@ -1,7 +1,10 @@
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\domain\Genre.java
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\web\dto\CastMemberDTO.java
+C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\service\GenreServiceImpl.java
+C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\controller\MovieController.java
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\web\dto\MovieDTO.java
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\web\dto\GenreDTO.java
+C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\service\GenreService.java
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\web\MovieController.java
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\repository\GenreRepository.java
 C:\Users\mihir\netflix\moviesproject\src\main\java\com\example\moviedb\MovieDbApplication.java

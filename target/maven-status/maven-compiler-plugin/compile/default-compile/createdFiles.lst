@@ -1,9 +1,12 @@
+com\example\moviedb\service\GenreService.class
+com\example\moviedb\service\GenreServiceImpl.class
 com\example\moviedb\web\MovieController.class
 com\example\moviedb\repository\CastMemberRepository.class
 com\example\moviedb\domain\Genre.class
 com\example\moviedb\domain\CastMember.class
 com\example\moviedb\web\dto\CastMemberDTO.class
 com\example\moviedb\config\DataSeeder.class
+com\example\moviedb\controller\MovieController.class
 com\example\moviedb\repository\GenreRepository.class
 com\example\moviedb\web\dto\GenreDTO.class
 com\example\moviedb\repository\MovieRepository.class
