@@ -1,7 +1,7 @@
 
 async function loadMovies() {
     try {
-        const response = await fetch("https://moviesdb-pq7j.onrender.com");
+        const response = await fetch("/api/v1/movies");
         const movies = await response.json();
 
         const container = document.getElementById("movie-container");
